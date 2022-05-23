@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20210809-132003_Termux](https://user-images.githubusercontent.com/81049859/128747903-6817d13d-0420-4a44-8f10-c114efcb0d72.png)
+![Screenshot_20220522-233342_Termux](https://user-images.githubusercontent.com/81049859/169738551-2cfe366a-da03-4abd-b7ad-6f1e23503b3b.png)
+
 
 
 ## ExifCj7 :
