@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220522-233342_Termux](https://user-images.githubusercontent.com/81049859/169738551-2cfe366a-da03-4abd-b7ad-6f1e23503b3b.png)
+![Screenshot_20221228-131604_Termux](https://user-images.githubusercontent.com/81049859/209850815-dd81a061-2740-43c6-a107-231dafb7d9aa.png)
 
 ## ExifCj7 :
 * ¡¡¡ Lea , escriba y edite la metainformación !!!
