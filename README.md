@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000328329](https://github.com/Juliocj7/ExifCj7/assets/81049859/8c3181ec-77d8-4a16-9f0f-fa71410dc74d)
 
 ## ExifCj7 :
-* ¡¡¡ Lea , escriba y edite la metainformación !!!
+* Lea, escriba y edite la metainformación de archivos.
 * Oculta información dentro de metadatos (de una imagen, audio, videos o pdf).
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
