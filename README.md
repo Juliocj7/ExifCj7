@@ -46,8 +46,8 @@ ______________________________________________________
 ![1000328329](https://github.com/Juliocj7/ExifCj7/assets/81049859/8c3181ec-77d8-4a16-9f0f-fa71410dc74d)
 
 ## ExifCj7 :
-* Lea, escriba y edite la metainformación de archivos.
-* Oculta información dentro de metadatos (de una imagen, audio, videos o pdf).
+* Lea, escriba y edite la meta información de archivos.
+* Oculta información dentro los metadatos (de una imagen, audio, videos o pdf).
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -55,17 +55,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/ExifCj7`
-
-* `cd ExifCj7`
-
-* `chmod +x *`
-
-* `./ExifCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/ExifCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd ExifCj7 && chmod +x * && ./ExifCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
