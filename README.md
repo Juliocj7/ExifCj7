@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328329](https://github.com/Juliocj7/ExifCj7/assets/81049859/8c3181ec-77d8-4a16-9f0f-fa71410dc74d)
+[![1000328329](https://github.com/user-attachments/assets/4a8b8bb0-bc84-4f80-9c77-ad2e2feefd0c)](#---)
 
 ## ExifCj7 :
 * Lea, escriba y edite la meta información de archivos.
